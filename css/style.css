@@ -34,7 +34,13 @@
     margin-top: 4%;
 }
 .preco{
-   margin-left: 50%;
+   margin-left: 20%;
    color: rgb(68, 20, 114);
    font-size: 1rem; 
+}
+.nota{
+    color: black;
+}
+.nota :hover{
+    color: gold;
 }
