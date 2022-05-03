@@ -7,19 +7,19 @@
     height: 270px;
     width: 260px;
     margin: 5px 20px;
-   /*  padding: 5px; */
+    /*  padding: 5px; */
 }
 
-  .card img {
+.card img {
     display: flex;
-     width: 100%; 
+    width: 100%;
     justify-content: center;
     margin-right: 50%;
-} 
+}
 
 .card-infor {
     margin-top: 2%;
-    box-shadow: 1px 4px 20px rgba(0, 0, 0, 0.3);  
+    box-shadow: 1px 4px 20px rgba(0, 0, 0, 0.3);
     border: solid 1px #ffffff;
     background: #ffffff;
     padding: 10px;
@@ -29,18 +29,22 @@
 .card-infor h4 {
     font-size: 1.3rem;
     margin: 0px;
-} 
-.card-preco{
+}
+
+.card-preco {
     margin-top: 4%;
 }
-.preco{
-   margin-left: 20%;
-   color: rgb(68, 20, 114);
-   font-size: 1rem; 
+
+.preco {
+    margin-left: 20%;
+    color: rgb(77, 28, 123);
+    font-size: 1.1rem;
 }
-.nota{
+
+.nota {
     color: black;
 }
-.nota :hover{
+
+.nota :hover {
     color: gold;
 }
